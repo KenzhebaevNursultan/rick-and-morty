@@ -24,7 +24,7 @@ const StyledInput = styled.input`
     border-color: #007bff;
   }
 `;
-
+// default parametres
 const TextField = ({
   label,
   type = "text",
